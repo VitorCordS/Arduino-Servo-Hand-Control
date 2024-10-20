@@ -9,10 +9,10 @@ Este projeto utiliza servos e potenciômetros para controlar uma mão robótica 
 - Fios de conexão
 - Protoboard
 
-##🚀 Como Usar
+## 🚀 Como Usar
 - Conecte os componentes conforme as instruções.
 - Carregue o código no Arduino.
 - Ajuste os potenciômetros para controlar os movimentos da mão.
 
   ## 🎥 Vídeo Demonstrativo
-[![Confira o vídeo no YouTube](https://i.ibb.co/yFwN7DN/Whats-App-Image-2024-10-20-at-15-51-29.jpg)](https://youtu.be/Ac7zUeninqw=119)
+[Confira o vídeo no YouTube](https://youtu.be/Ac7zUeninqw=119)
