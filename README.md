@@ -15,4 +15,4 @@ Este projeto utiliza servos e potenciômetros para controlar uma mão robótica 
 - Ajuste os potenciômetros para controlar os movimentos da mão.
 
 ## 🎥 Vídeo Demonstrativo
-[Confira o vídeo no YouTube](https://youtu.be/Ac7zUeninqw=119)
+[Confira o vídeo no YouTube](https://www.youtube.com/watch?v=LeXjwbTdwL4&t=2m0s)
