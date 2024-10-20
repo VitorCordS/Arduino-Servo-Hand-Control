@@ -14,5 +14,5 @@ Este projeto utiliza servos e potenciômetros para controlar uma mão robótica 
 - Carregue o código no Arduino.
 - Ajuste os potenciômetros para controlar os movimentos da mão.
 
-  ## 🎥 Vídeo Demonstrativo
+## 🎥 Vídeo Demonstrativo
 [Confira o vídeo no YouTube](https://youtu.be/Ac7zUeninqw=119)
